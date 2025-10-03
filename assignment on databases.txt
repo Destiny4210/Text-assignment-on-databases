@@ -1,0 +1,22 @@
+Assignment
+
+1. **Types of RDBMS (Relational Database Management Systems):**
+   Some common ones are:
+
+   * MySQL
+   * PostgreSQL
+   * Oracle
+   * Microsoft SQL Server
+   * SQLite
+
+2. **Full meaning of ORM:**
+   ORM means **Object Relational Mapping**.
+   It helps us talk to the database using code instead of writing SQL directly.
+
+3. **Different types of ORM (except Mongoose):**
+
+   * Sequelize (JavaScript)
+   * TypeORM (JavaScript/TypeScript)
+   * Hibernate (Java)
+   * SQLAlchemy (Python)
+   * Entity Framework (C#)
